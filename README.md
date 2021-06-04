@@ -34,7 +34,7 @@ Best suited to run the program on IDLE and Python 3.7 on a Windows system.
 
 ![image](https://user-images.githubusercontent.com/56449549/120798856-e6d2a580-c4c8-11eb-9ae3-12f7ea7276ad.png)
 
-Your Safety, Our Priority!!
+#### Your Safety, Our Priority!!
 
 ![image](https://user-images.githubusercontent.com/56449549/120800957-809b5200-c4cb-11eb-922a-e97036a37af1.png)
 
@@ -49,20 +49,27 @@ Your code to use
 
 ### We provide Vaccine Specific Solutions
 
+![image](https://user-images.githubusercontent.com/56449549/120806954-63b64d00-c4d2-11eb-82a8-23c21bad5b80.png)
 
-
-This is how you have to register for your vaccine
+#### This is how you have to register for your vaccine
 
 ![image](https://user-images.githubusercontent.com/56449549/120801831-a2e19f80-c4cc-11eb-9a5f-97f31480e101.png)
 
 ### How are App works
 
-![image](https://user-images.githubusercontent.com/56449549/120802037-e63c0e00-c4cc-11eb-8359-e4e959c60d58.png)
+![image](https://user-images.githubusercontent.com/56449549/120804662-deca3400-c4cf-11eb-8b48-440a148adbf4.png)
 
 ### Virtual Doctor Consultant Post Vaccination
 #### That too for free, YES YOU HEARD IT RIGHT!!!
 
 ![image](https://user-images.githubusercontent.com/56449549/120800137-8f353980-c4ca-11eb-94c0-62bb75962536.png)
+
+### Taking the Project Ahead
+* Enhance the data warehouse by storing Real-time data on Google Firebase
+* The GUI is built purely on Python, and can easily be transformed to Python Flutter App
+* Make the application more user-friendly by deploying it on Android and iOS
+
+![image](https://user-images.githubusercontent.com/56449549/120807232-ab3cd900-c4d2-11eb-8f61-c52a67da2cbc.png)
 
 ## Tech/Framework used
 Built using
