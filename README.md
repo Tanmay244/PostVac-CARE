@@ -75,7 +75,7 @@ Your code to use
 Built using
 * Python 3
 * TensorFlow
-* Yolo v3
+* SQL
 * Pretrained models
 * HTML
 * CSS
