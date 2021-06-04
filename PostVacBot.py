@@ -47,4 +47,4 @@ while(flag==True):
                 print(COVIDbot(user_response))
     else:
         flag=False
-        print("Chatbot : Bye!!! ")
+        print("Chatbot : Bye!!!")
